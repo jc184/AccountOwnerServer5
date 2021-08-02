@@ -14,6 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AccountOwnerServer.Extensions;
 using Microsoft.AspNetCore.HttpOverrides;
+using Microsoft.Net.Http.Headers;
 using NLog;
 
 namespace AccountOwnerServer
